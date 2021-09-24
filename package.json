@@ -36,6 +36,7 @@
     "gitbook-plugin-tbfed-pagefooter": "0.0.1",
     "gitbook-plugin-theme-comscore": "0.0.3",
     "gitbook-plugin-todo": "^0.1.3",
-    "gitbook-plugin-toggle-chapters": "0.0.3"
+    "gitbook-plugin-toggle-chapters": "0.0.3",
+    "graceful-fs": "^4.2.8"
   }
 }
